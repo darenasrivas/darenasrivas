@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Arenas</h1>
-<h3 align="center">Dando mis primeros pasos en programación.</h3>
+<h3 align="center">Programando mis primeros pasos.</h3>
 
 - 🌱 I’m currently learning **PHP & JavaScript.**
 
