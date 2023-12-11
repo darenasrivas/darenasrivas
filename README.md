@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **PHP & JavaScript.**
 
 - 📫 How to reach me **darenasrivas@gmail.com**
-- 
+  
 <p align="left">
 </p>
 
